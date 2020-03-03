@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container">
+  <form action="{% url 'classify' %}" method="POST">
+    {% csrf_token %}
+    <div class="form-group">
+      <label for="message">Your Message</label>
+      <textarea class="form-control" name="message"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Classify!</button>
+  </form>
+</div>
+{% endblock %}
