@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '820a0k-5y9o^%0m8%h2m*fvx0#!!@)r)fr@0pjwf-juvtnx0*x'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['syriansmsclassifier.herokuapp.com']
 
