@@ -1,4 +1,4 @@
-# Syrian-SMS-Spam-Classification
+# Syrian SMS Spam Classification
 
 The building of this project consisted of two main parts:
 1. Creating the machine learning model
