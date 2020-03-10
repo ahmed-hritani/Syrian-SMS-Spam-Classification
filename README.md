@@ -6,7 +6,7 @@ The building of this project consisted of two main parts:
 
 I will start by discussing the first part, the machine learning model consists of five main parts:
 1. Data Acquisition:
-   - the data was collected from the phones of friends and family and it contains private messages, for that reason the messages can not be shared, however you can use the pickeled feature extractor, feature engineering  and classification models
+   - the data was collected from the phones of friends and family and it contains private messages, for that reason the messages can not be shared, however you can use the pickled feature extractor, feature engineering  and classification models
    
    
 2. Text Preprocessing(you can find the implementation for the folowing steps in preprocessing.py):
