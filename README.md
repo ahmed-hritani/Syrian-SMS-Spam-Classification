@@ -1,6 +1,6 @@
 # Arabic(Syrian) SMS Spam Classification
 
-live at: https://syriansmsclassifier.herokuapp.com/
+live at: syriansmsclassifier.herokuapp.com
 
 The building of this project consisted of two main parts:
 1. Creating the machine learning model
