@@ -38,4 +38,4 @@ Bag of words was chosen because it had achived higher precision rates than TF-ID
    
 Support Vector Machine was chosen because it had achived higher precision rates than TF-IDF.
 
-The web application consists of one app(in Django language) that interacts with the machine learning model which can be found at apps.py
+The web application consists of one app(in Django language), the controller interacts with the preprocessing fucntions in the preprocessing.py file by calling **readInputAndClassify** function, which takes the pickled models and the message and returns the class of the message
