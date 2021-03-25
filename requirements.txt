@@ -16,7 +16,7 @@ pylint==2.4.4
 python-crfsuite==0.9.6
 pytz==2019.3
 pyuca==1.2
-PyYAML==5.3
+PyYAML==5.4
 regex==2020.2.20
 scikit-learn==0.22.2
 scipy==1.4.1
